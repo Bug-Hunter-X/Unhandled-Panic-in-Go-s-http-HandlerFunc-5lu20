@@ -1,0 +1,3 @@
+func handleRequest(w http.ResponseWriter, r *http.Request) {
+    // ... some code that may panic ...
+}
